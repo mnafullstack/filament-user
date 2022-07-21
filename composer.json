@@ -13,7 +13,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "mnafullstack\\FilamentUser\\": "src/"
+            "3x1\\FilamentUser\\": "src/"
         }
     },
     "authors": [
@@ -37,7 +37,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "mnafullstack\\FilamentUser\\FilamentUserProvider"
+                "3x1\\FilamentUser\\FilamentUserProvider"
             ]
         }
     },
