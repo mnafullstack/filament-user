@@ -1,5 +1,5 @@
 {
-    "name": "3x1io/filament-user",
+    "name": "mnafullstack/filament-user-2",
     "description": "User Manager Resource For Filament Admin",
     "keywords": [
         "laravel",
@@ -13,7 +13,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "io3x1\\FilamentUser\\": "src/"
+            "mnafullstack\\FilamentUser\\": "src/"
         }
     },
     "authors": [
@@ -37,7 +37,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "io3x1\\FilamentUser\\FilamentUserProvider"
+                "mnafullstack\\FilamentUser\\FilamentUserProvider"
             ]
         }
     },
